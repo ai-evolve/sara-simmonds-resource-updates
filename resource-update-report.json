@@ -1,0 +1,80 @@
+{
+  "checkedAt": "2026-09-03",
+  "successfulFetches": 9,
+  "totalSources": 9,
+  "changedOverrides": 2,
+  "checks": [
+    {
+      "name": "5050 (Fifty Years)",
+      "url": "https://www.fiftyyears.com/5050",
+      "outcome": "unchanged",
+      "reason": "No unambiguous official-source date found",
+      "evidenceDate": null,
+      "discoveredNewDeadline": false
+    },
+    {
+      "name": "Nucleate",
+      "url": "https://nucleate.org/activator/",
+      "outcome": "unchanged",
+      "reason": "No unambiguous official-source date found",
+      "evidenceDate": null,
+      "discoveredNewDeadline": false
+    },
+    {
+      "name": "NIH SBIR Phase I",
+      "url": "https://seed.nih.gov/",
+      "outcome": "unchanged",
+      "reason": "No unambiguous official-source date found",
+      "evidenceDate": null,
+      "discoveredNewDeadline": false
+    },
+    {
+      "name": "NIH SBIR Phase II",
+      "url": "https://seed.nih.gov/",
+      "outcome": "unchanged",
+      "reason": "No unambiguous official-source date found",
+      "evidenceDate": null,
+      "discoveredNewDeadline": false
+    },
+    {
+      "name": "NSF SBIR (America's Seed Fund)",
+      "url": "https://seedfund.nsf.gov/",
+      "outcome": "unchanged",
+      "reason": "No unambiguous official-source date found",
+      "evidenceDate": null,
+      "discoveredNewDeadline": false
+    },
+    {
+      "name": "ARPA-H SBIR/STTR",
+      "url": "https://arpa-h.gov/explore-funding/sbir",
+      "outcome": "verified",
+      "reason": null,
+      "evidenceDate": "2026-07-17",
+      "discoveredNewDeadline": false
+    },
+    {
+      "name": "BioTools Innovator VANGUARD",
+      "url": "https://biotoolsinnovator.org/vanguard-dev/",
+      "outcome": "unchanged",
+      "reason": "No unambiguous official-source date found",
+      "evidenceDate": null,
+      "discoveredNewDeadline": false
+    },
+    {
+      "name": "MassVentures START",
+      "url": "https://www.mass-ventures.com/start-program-info",
+      "outcome": "unchanged",
+      "reason": "No unambiguous official-source date found",
+      "evidenceDate": null,
+      "discoveredNewDeadline": false
+    },
+    {
+      "name": "MA AI Hub Applied AI Models Innovation Challenge",
+      "url": "https://aihub.masstech.org/notice-funding-opportunity-solicitation-applied-ai-models-innovation-challenge",
+      "outcome": "verified",
+      "reason": null,
+      "evidenceDate": "2026-03-06",
+      "discoveredNewDeadline": false
+    }
+  ]
+}
